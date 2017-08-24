@@ -1,0 +1,15 @@
+[{
+    "seq": 1,
+    "description": "Transaction description",
+    "value": 10.25,
+    "accrualDate": "2017-04-23T18:25:43.511Z",
+    "statementDate": "2017-04-24T12:00:00.000Z"
+},
+{
+    "seq": 2,
+    "description": "Transaction description 2",
+    "value": 100,
+    "accrualDate": "2017-04-24T18:25:43.511Z",
+    "statementDate": "2017-04-25T12:00:00.000Z"
+}
+]
